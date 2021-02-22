@@ -1,7 +1,7 @@
 # paintjs
 Painting Board made with VanillaJS
 
-★Features
+# Features
 ● Paint
 ● Change brush size
 ● Change color
