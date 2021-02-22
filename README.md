@@ -8,4 +8,4 @@ Painting Board made with VanillaJS
 * Save images
 * Fill canvas
 
->[Check this!](https://xmun74.github.io/paintjs/)
+>[Check this!](https://xmun74.github.io/paintjs/){: target="_blank"}
