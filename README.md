@@ -5,7 +5,7 @@ Painting Board made with VanillaJS
 * Paint
 * Change brush size
 * Change color
-- Save images
-> Fill canvas
+* Save images
+* Fill canvas
 
-[Check this!]()
+>[Check this!]()
